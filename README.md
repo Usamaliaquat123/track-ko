@@ -1,2 +1,2 @@
 # Track ko 
-An app record family tracking
+An app that record family tracking
